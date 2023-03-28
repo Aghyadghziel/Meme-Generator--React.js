@@ -23,4 +23,4 @@ At Meme Generator our goal is to create a funny memes💜
 #### Tools and Skils !
 
 Html, Css, Javascript, React.js, Api Meme Generator 🎉
-# Meme-Generator--React.js
+# Meme-Generator--React.jsz
