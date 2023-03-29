@@ -2,7 +2,7 @@
 
 ## How to make your meme ?
 
-#### 1- fill the top textt
+#### 1- fill the top text
 
 #### 2- fill the bottom text
 
